@@ -17,4 +17,4 @@ You can include the responsive table CSS in your project by following these step
 You can download the CSS file directly or clone the repository using Git:
 
 ```sh
-git clone https://github.com/yourusername/res-table.git
+git clone https://github.com/pawanhost/res-table.git
