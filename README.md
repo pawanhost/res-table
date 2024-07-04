@@ -26,7 +26,10 @@ To install the Chrome extension, follow these steps:
 
 ## Screenshots
 
-![Extension Screenshot](/path/to/screenshot.png)
+![Extension Screenshot1](/table-generator1.png)
+![Extension Screenshot2](/table-generator2.png)
+![Extension Screenshot3](/table-generator3.png)
+![Extension Screenshot4](/table-generator4.png)
 
 ## Contributing
 
